@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "nama-pembayaran":"UMUM"
+    },
+    {
+        "id":2,
+        "nama-pembayaran":"ASURANSI"
+    },
+    {
+        "id":3,
+        "nama-pembayaran":"BPJS"
+    }
+]

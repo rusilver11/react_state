@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nama-poli":"Poli obygn spesialis"
+    },
+    {
+        "id":2,
+        "nama-poli":"Poli anak spesialis"
+    },
+    {
+        "id":3,
+        "nama-poli":"Poli bedah spesialis"
+    },
+    {
+        "id":4,
+        "nama-poli":"Poli kulit&kelamin spesialis"
+    },
+    {
+        "id":5,
+        "nama-poli":"Poli gigi spesialis"
+    },
+    {
+        "id":6,
+        "nama-poli":"Poli tht spesialis"
+    }
+]

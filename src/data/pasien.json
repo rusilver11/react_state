@@ -1,0 +1,30 @@
+[
+    {
+    "id":1,
+    "nama": "Indra Vincentius Manik",
+    "nohp" : "08122334455",
+    "jeniskel":"Pria",
+    "agama":"Islam",
+    "pelayanan": {
+        "status":"Pasien Baru",
+        "layanan":"Pagi",
+        "pembayaran":"Umum",
+        "poli":"Poli Gigi",
+        "dokter":"dr. khairani diman, Sp.A"
+    }
+    },
+    {
+        "id":2,
+        "nama": "Imam malik",
+        "nohp" : "081776655",
+        "jeniskel":"Pria",
+        "agama":"Islam",
+        "pelayanan": {
+            "status":"Pasien Baru",
+            "layanan":"Pagi",
+            "pembayaran":"Umum",
+            "poli":"Poli Gigi",
+            "dokter":"dr. khairani diman, Sp.A"
+        }
+    }
+]

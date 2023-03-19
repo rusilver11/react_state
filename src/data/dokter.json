@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "nama-dokter":"dr. khairani diman, Sp.A",
+        "waktu-pelayanan":"08:00 - 11:00"
+    },
+    {
+        "id":2,
+        "nama-dokter":"dr. Wulan Tristiyanti, Sp.A",
+        "waktu-pelayanan":"12:00 - 16:00"
+    }
+]

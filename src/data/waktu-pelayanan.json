@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "nama-waktu":"Pagi",
+        "waktu":"01:00 - 12:59"
+    },
+    {
+        "id":2,
+        "nama-waktu":"Sore",
+        "waktu":"13:00 - 23:59"
+    }
+]
